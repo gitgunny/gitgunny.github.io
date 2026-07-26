@@ -1,4 +1,4 @@
-# Visual TFT 소프트웨어 구성
+# [Visual TFT] 소프트웨어 구성
 
 > ![Note](https://cdn.jsdelivr.net/gh/gitgunny/gitgunny.github.io@main/assets/icons/note.svg)
 >

@@ -17,6 +17,7 @@
 > ![Note](https://cdn.jsdelivr.net/gh/gitgunny/gitgunny.github.io@main/assets/icons/note.svg)
 >
 > Visual TFT 지원 디스플레이는 [여기](https://www.gz-dc.com/category/typeid/729.html)에서 확인할 수 있습니다.
+>
 > 버전은 Visual TFT 화면 우측 하단에서 확인할 수 있습니다.
 
 ### DC80600EW070 앞면

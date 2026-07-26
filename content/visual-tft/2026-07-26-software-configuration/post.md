@@ -15,6 +15,7 @@ Visual TFT 소프트웨어를 [다운로드](https://www.gz-dc.com/category/type
 > ![Important](https://cdn.jsdelivr.net/gh/gitgunny/gitgunny.github.io@main/assets/icons/important.svg)
 >
 > 본 문서는 영문(English) 설치로 진행합니다.
+>
 > 설치 경로는 운영체제가 설치된 드라이버(예 C:\\)에 설치하는 것을 권장합니다.
 
 > ![Note](https://cdn.jsdelivr.net/gh/gitgunny/gitgunny.github.io@main/assets/icons/note.svg)
@@ -34,7 +35,9 @@ Visual TFT 소프트웨어를 [다운로드](https://www.gz-dc.com/category/type
 3. Default Font → 사용할 글꼴 지정
 4. Code Set → UTF8 변경
 5. Save 저장
+
 > ![Note](https://cdn.jsdelivr.net/gh/gitgunny/gitgunny.github.io@main/assets/icons/note.svg)
->
+> 
 > 추후 한글 인코딩 호환을 위해 Code Set을 UTF8로 변경합니다.
+> 
 > Font File 콤보 박스를 선택하지 않으면 Default Font 설정을 따라갑니다.

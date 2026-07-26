@@ -1,5 +1,8 @@
 # Visual TFT 하드웨어 구성
 
+> [!Note]
+> 본 문서는 [원본 문서](https://github.com/gitgunny/gitgunny.github.io/blob/main/content/visual-tft/2026-07-26-hardware-configuration/post.md)를 기준으로 작성되었습니다.
+
 ## 하드웨어 선정
 
 본 문서는 아래와 같은 기준으로 작성되었습니다.

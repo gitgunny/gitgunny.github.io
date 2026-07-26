@@ -1,5 +1,8 @@
 # Visual TFT 소프트웨어 구성
 
+> [!Note]
+> 본 문서는 [원본 문서](https://github.com/gitgunny/gitgunny.github.io/blob/main/content/visual-tft/2026-07-26-software-configuration/post.md)를 기준으로 작성되었습니다.
+
 ## Visual TFT 설치
 
 본 문서는 Visual TFT 소프트웨어 설치 후 한글 글꼴 추가하는 방법에 대해 설명합니다.
